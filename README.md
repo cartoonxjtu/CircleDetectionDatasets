@@ -2,8 +2,8 @@
  The dataset is created for testing circle detection algorithms. It contains five categories which cover a wide spectrum of images. The five categories are:
   * bubble
   * cell
+  * seal
   * sign 
-  * traffic
   * coin
   
   Each of them is named after the objects presented in its images. 
